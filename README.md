@@ -6,7 +6,7 @@ A live ongoing project that shows the beauty of space and gravity.
 
 A live ongoing project that represents orbital mechanics using 
 Physics-Informed Neural Networks. It shows the integration of
-Machine learning, Physics and Maths. A the results are shown and 
+Machine learning, Physics and Maths. The results are shown and 
 beautiful visuals will be presented on the OrbitIT website. 
 
 ## What's been built so far
